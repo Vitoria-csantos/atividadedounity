@@ -1,4 +1,4 @@
-# atividadedounity
+# Atividade, Unity
 Esta pasta terá explicações de criação de uma cena no Unity.
 
 <h1>Descrição da cena</h1>
