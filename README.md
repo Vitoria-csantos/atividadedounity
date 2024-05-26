@@ -13,6 +13,13 @@ Esta pasta terá explicações de criação de uma cena no Unity.
 <p>Assets > Create > Material</p>
 <p>Após adicionar o material, deve-se atribuir as características do material como a cor/estampa, efeito metálico e a suavidade. No caso da cena, o material foi usado na esfera criada pelo Objects 3D para simular uma maçã.</p>
 
+<h2>Texturas</h2>
+<p>Também conhecidas como Textures no inglês, são simplesmente apenas imagens podendo conter várias referências. Uma textura possui uma cor base, chamada Albedo, podendo conter várias perspectivas como a sua refletividade (Reflectivity) ou rugosidade (Roughness). Essas imagens geralmente estão organizadas em uma pasta. </p>
+<p>Scenes > Create > Material > Albedo (arrastar a imagem da pasta texturas para o Albedo)</p>
+
+<h2>Assets</h2>
+<p>Em resumo um asset é um objeto qualquer que pode ser colocado em seu jogo, ou seja, eles são componentes/objetos que compõem um jogo. Esses arquivos/programas podem ser encontrados e exportados pela plataforma na Unity Asset Store que oferece assets prontos sendo alguns caros e outros gratuitos, ou seja, uma loja ou vitrine digital.</p>
+
 <h2>Física na cena</h2>
 <h3>Rigidbody</h3>
 <p>Traduzindo, "rigidbody" significa "corpo rígido", ou seja, adiciona gravidade a um objeto, fazendo que, quando a cena comece, ele se mova de acordo com a sua posição. Caso aplicado no chão, ele cai. Na cena feita, ele está aplicado na maçã, fazendo com que ela caia da árvore.</p>
@@ -25,3 +32,7 @@ Esta pasta terá explicações de criação de uma cena no Unity.
 <p>https://docs.unity3d.com/Manual/class-PhysicMaterial.html</p>
 <p>https://docs.unity3d.com/ScriptReference/Rigidbody.html</p>
 <p>https://docs.unity3d.com/510/Documentation/Manual/PrimitiveObjects.html</p>
+<p></p>https://materialpublic.imd.ufrn.br/curso/disciplina/5/68/9/2#:~:text=No%20Unity%2C%20Materials%20s%C3%A3o%20defini%C3%A7%C3%B5es,Tiling)%2C%20cores%2C%20etc.</p>
+<p>https://unity.com/pt/pages/introduction-to-asset-store#:~:text=A%20Unity%20Asset%20Store%20%C3%A9,espec%C3%ADficos%20com%20base%20nos%20objetivos.</p>
+<p>https://materialpublic.imd.ufrn.br/curso/disciplina/5/59/2/2#:~:text=Resumindo%2C%20um%20asset%20%C3%A9%20um,qualquer%20formato%20suportado%20por%20este.</p>
+<p>https://producaodejogos.com/game-assets-que-ajudam-no-desenvolvimento-do-seu-jogo/#:~:text=Game%20assets%20nada%20mais%20s%C3%A3o,publicado%20ou%20para%20sempre%20engavetado.</p>
