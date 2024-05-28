@@ -1,0 +1,399 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.11f1 (6a1e21c61430) revision 6954529'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalEducation' Language: 'pt' Physical Memory: 15740 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+57099
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [12316] Host "[IP] 192.168.1.198 [Port] 0 [Flags] 2 [Guid] 2119199211 [EditorId] 2119199211 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-16) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [12316] Host "[IP] 192.168.1.198 [Port] 0 [Flags] 2 [Guid] 2119199211 [EditorId] 2119199211 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-16) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.11f1 (6a1e21c61430)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   ATI
+    VRAM:     7870 MB
+    Driver:   31.0.12018.19001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56340
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002165 seconds.
+- Loaded All Assemblies, in  0.363 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.296 seconds
+Domain Reload Profiling: 658ms
+	BeginReloadAssembly (114ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (149ms)
+		LoadAssemblies (112ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (147ms)
+			TypeCache.Refresh (145ms)
+				TypeCache.ScanAssembly (134ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (296ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (246ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (179ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.739 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.557 seconds
+Domain Reload Profiling: 1294ms
+	BeginReloadAssembly (301ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (346ms)
+		LoadAssemblies (262ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (174ms)
+			TypeCache.Refresh (148ms)
+				TypeCache.ScanAssembly (136ms)
+			BuildScriptInfoCaches (20ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (557ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (377ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (312ms)
+			ProcessInitializeOnLoadMethodAttributes (21ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3147 unused Assets / (0.9 MB). Loaded Objects now: 3731.
+Memory consumption went from 126.4 MB to 125.4 MB.
+Total: 4.923300 ms (FindLiveObjects: 0.426400 ms CreateObjectMapping: 0.141100 ms MarkObjects: 3.475200 ms  DeleteObjects: 0.879300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 103215.628511 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Plant5.prefab
+  artifactKey: Guid(0e418186bde4c6d4ab2d787c4e5346db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Plant5.prefab using Guid(0e418186bde4c6d4ab2d787c4e5346db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '810676b92ae086f1da1ea89722434269') in 0.1435093 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel_fish.prefab
+  artifactKey: Guid(0d2af6a6b81e33943a9eb2c1f8f1d672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel_fish.prefab using Guid(0d2af6a6b81e33943a9eb2c1f8f1d672) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3861288adc90b8f1a186223192d5e80f') in 0.023589 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern.prefab
+  artifactKey: Guid(cb181bc6c302bca40929333077286a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern.prefab using Guid(cb181bc6c302bca40929333077286a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4b0a7239229794e5af978ab4a6c8e01') in 0.2652382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 586
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel_drink.prefab
+  artifactKey: Guid(9a96d7bdbb239cd479e5492b9ceb2c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel_drink.prefab using Guid(9a96d7bdbb239cd479e5492b9ceb2c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1662951b4c1a798dd50e64385a9cf47') in 0.0205459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_interior_chandelier.prefab
+  artifactKey: Guid(f8c7dffde3d4f734b9aed6a300982bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_interior_chandelier.prefab using Guid(f8c7dffde3d4f734b9aed6a300982bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b477ac5d79ef2f5e19da7d768b49d55d') in 0.0229504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_jug_small.prefab
+  artifactKey: Guid(8ce6d858b0b6faf49a9aeb8265f3f5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_jug_small.prefab using Guid(8ce6d858b0b6faf49a9aeb8265f3f5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31f599818d6e49cafe7f74f99ead7352') in 0.0187839 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.957816 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_corner.prefab
+  artifactKey: Guid(7a3b4e0ce3105e340a61cb9472530255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_corner.prefab using Guid(7a3b4e0ce3105e340a61cb9472530255) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7bfee276f31abfd9c903255c7c6c56a') in 0.0198675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_tower1.prefab
+  artifactKey: Guid(756bd484e6f626047a701d6c3d7cfd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_tower1.prefab using Guid(756bd484e6f626047a701d6c3d7cfd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3a289e9a65dd5ed1897aa802f1d9406') in 0.0201692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Willow_tree2.prefab
+  artifactKey: Guid(1499c673ad068e74e90b288302fa8b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Willow_tree2.prefab using Guid(1499c673ad068e74e90b288302fa8b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79d03042cbf74f0a89672f2934509554') in 0.0251923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenHouse_3.prefab
+  artifactKey: Guid(f2d2c05f673efab46bbfa275f8aafe86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenHouse_3.prefab using Guid(f2d2c05f673efab46bbfa275f8aafe86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c46ce5411e1d12b378f4ba78252909f0') in 0.0214743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 84
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_gateR.prefab
+  artifactKey: Guid(94bc148fc0d575f4791242dbf5987726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_gateR.prefab using Guid(94bc148fc0d575f4791242dbf5987726) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c7c12e321e5794600487736c6be1922') in 0.0185386 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_props.prefab
+  artifactKey: Guid(344cf0c3e19298f43895cc0857021250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_props.prefab using Guid(344cf0c3e19298f43895cc0857021250) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b1806fe257297f3a59c67ae0d571666b') in 0.0169563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenHouse_2.prefab
+  artifactKey: Guid(c9fc122e3f8d06d43a1eb4f5ac1238cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenHouse_2.prefab using Guid(c9fc122e3f8d06d43a1eb4f5ac1238cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1467838a514f3988ba0449d39ccb50c1') in 0.0216327 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_tower2.prefab
+  artifactKey: Guid(2ac9bf91aae386d4e879dc4eeaf3c678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_tower2.prefab using Guid(2ac9bf91aae386d4e879dc4eeaf3c678) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef773b10db455c6e0819c2c9ca4e665f') in 0.0167471 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.998178 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenHouse_door.prefab
+  artifactKey: Guid(d672b850d7f71f2448bb7af726bbdf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenHouse_door.prefab using Guid(d672b850d7f71f2448bb7af726bbdf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44617c100bcb708049d48f86cd5141eb') in 0.0190449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_1.prefab
+  artifactKey: Guid(93a135b5c8137e5468cb55d97a43df67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_1.prefab using Guid(93a135b5c8137e5468cb55d97a43df67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd81b036ad551b3c926836ceff1a4de40') in 0.0157132 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_3.prefab
+  artifactKey: Guid(1a23adb5512843d47b68a82e0cd05a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_3.prefab using Guid(1a23adb5512843d47b68a82e0cd05a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7486df20453c153f6dfaf56bb0c8633a') in 0.0197725 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_Entrace.prefab
+  artifactKey: Guid(9000e31c84559634b8f9ce44b2636f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_Entrace.prefab using Guid(9000e31c84559634b8f9ce44b2636f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22c61c2c92e4b6a7ce14646f372c0cda') in 0.0189666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_TowerCorner.prefab
+  artifactKey: Guid(64b9fdd8926ce144fbdc31c4044b55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_TowerCorner.prefab using Guid(64b9fdd8926ce144fbdc31c4044b55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7853f48a66a1897213f3e769ef82936') in 0.019485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_Towers.prefab
+  artifactKey: Guid(07d5343e5818c96458bb0cdc28d7798d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_Towers.prefab using Guid(07d5343e5818c96458bb0cdc28d7798d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd3cdaa300fa8426a508e20ef006869e') in 0.0200597 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_Stairs.prefab
+  artifactKey: Guid(92cc6d2406e4cc547a83ad74708c2d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_Stairs.prefab using Guid(92cc6d2406e4cc547a83ad74708c2d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6eaa00850bff9b07c8e6711fac0d7933') in 0.0196942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_Gate.prefab
+  artifactKey: Guid(b79b83d11a775684889f7af98f7d3284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_Gate.prefab using Guid(b79b83d11a775684889f7af98f7d3284) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83e021bc9d9d8927b114dc0e8dd24a26') in 0.0280831 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_GateR.prefab
+  artifactKey: Guid(954a6d45dd6defd4cbebbad41bdda4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_GateR.prefab using Guid(954a6d45dd6defd4cbebbad41bdda4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5a601ee503c1a181254f4dd0c8ddce3') in 0.0176459 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_GateL.prefab
+  artifactKey: Guid(254d02d9b62c2ec4a82af8ba4cfd9c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenWall_GateL.prefab using Guid(254d02d9b62c2ec4a82af8ba4cfd9c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d45090388fa714818c8597198fdff5b') in 0.0185484 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

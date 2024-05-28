@@ -1,0 +1,377 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.11f1 (6a1e21c61430) revision 6954529'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalEducation' Language: 'pt' Physical Memory: 15740 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+57099
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [1608] Host "[IP] 192.168.1.198 [Port] 0 [Flags] 2 [Guid] 1050377893 [EditorId] 1050377893 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-16) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [1608] Host "[IP] 192.168.1.198 [Port] 0 [Flags] 2 [Guid] 1050377893 [EditorId] 1050377893 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-16) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.11f1 (6a1e21c61430)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   ATI
+    VRAM:     7870 MB
+    Driver:   31.0.12018.19001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002333 seconds.
+- Loaded All Assemblies, in  0.560 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.513 seconds
+Domain Reload Profiling: 1071ms
+	BeginReloadAssembly (181ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (236ms)
+		LoadAssemblies (179ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (232ms)
+			TypeCache.Refresh (230ms)
+				TypeCache.ScanAssembly (207ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (514ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (431ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (11ms)
+			ProcessInitializeOnLoadAttributes (323ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.730 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.561 seconds
+Domain Reload Profiling: 1290ms
+	BeginReloadAssembly (308ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (336ms)
+		LoadAssemblies (267ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (162ms)
+			TypeCache.Refresh (138ms)
+				TypeCache.ScanAssembly (126ms)
+			BuildScriptInfoCaches (18ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (562ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (375ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (34ms)
+			ProcessInitializeOnLoadAttributes (312ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3147 unused Assets / (0.9 MB). Loaded Objects now: 3731.
+Memory consumption went from 126.4 MB to 125.5 MB.
+Total: 5.041000 ms (FindLiveObjects: 0.401500 ms CreateObjectMapping: 0.132300 ms MarkObjects: 3.667900 ms  DeleteObjects: 0.837600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 103208.260807 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Mushroom4.prefab
+  artifactKey: Guid(f8b92e99d9eca054e95b618e5ed82ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Mushroom4.prefab using Guid(f8b92e99d9eca054e95b618e5ed82ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f713c40d087d53d5069cba75508272ed') in 0.3461948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.019189 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Rock1.prefab
+  artifactKey: Guid(c07f24e35f07ce74ba43afa35d48adf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Rock1.prefab using Guid(c07f24e35f07ce74ba43afa35d48adf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c014a3eb0c561a9e08babc210bf1f5a') in 0.2109369 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_jug.prefab
+  artifactKey: Guid(bb94340bd6b78c044b8b6f772e321649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_jug.prefab using Guid(bb94340bd6b78c044b8b6f772e321649) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef868ff4b0c2ef64bd1fa545970767ce') in 0.0189381 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/TownGate.prefab
+  artifactKey: Guid(4047ab01be7298e4e827f73bf31ba088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/TownGate.prefab using Guid(4047ab01be7298e4e827f73bf31ba088) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17b92c2bc7db361a15301d8808dc6b0a') in 0.0262564 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Stone2.prefab
+  artifactKey: Guid(f36916143c7509543b1b8d40091baa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Stone2.prefab using Guid(f36916143c7509543b1b8d40091baa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d4e579946270daf93ce596cf0ff6f64') in 0.0178338 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Stone3.prefab
+  artifactKey: Guid(5c11b6a454fa5fd458d541957f1de507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Stone3.prefab using Guid(5c11b6a454fa5fd458d541957f1de507) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '124513b0e86ae3043bc67a2d9f431dd4') in 0.0224318 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Rye.prefab
+  artifactKey: Guid(18b3653ff6ace964c9b8347669591485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Rye.prefab using Guid(18b3653ff6ace964c9b8347669591485) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11bcced132e69e9583d6f9decee86d98') in 0.0247195 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_doorL.prefab
+  artifactKey: Guid(699d74b9574e3df4398144511a060916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_doorL.prefab using Guid(699d74b9574e3df4398144511a060916) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8729b63281d951d04a043ac95780f925') in 0.1136135 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Sunflower.prefab
+  artifactKey: Guid(355d74e3c834ddd4eac4b870d06f78e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Sunflower.prefab using Guid(355d74e3c834ddd4eac4b870d06f78e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62fc725ee2ffcb90f7e5f8cedd97b131') in 0.0224709 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Stone1_detail.prefab
+  artifactKey: Guid(9f1468c423fda7e4988d5a9473b17de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Stone1_detail.prefab using Guid(9f1468c423fda7e4988d5a9473b17de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06ec697126274aa75b1e1b9c3d2c33a1') in 0.018738 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel.prefab
+  artifactKey: Guid(3c3b0773e182ad847a706394ac5af117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel.prefab using Guid(3c3b0773e182ad847a706394ac5af117) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e782092acdf7cd11cc5aae9a32394c23') in 0.0180085 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.959913 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_entrance.prefab
+  artifactKey: Guid(58c1fb7d3a3c2d6458afaab92dd77586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_entrance.prefab using Guid(58c1fb7d3a3c2d6458afaab92dd77586) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86c583016f02a95e03d8df323dd4d550') in 0.0192667 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_gateL.prefab
+  artifactKey: Guid(085f0c4a9df420f4c80df0c2e9501532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_gateL.prefab using Guid(085f0c4a9df420f4c80df0c2e9501532) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9974b7123f2168de3ad466843b8e5259') in 0.0195635 seconds
+Internal: JobTempAlloc has allocations that are more than the maximum lifespan of 4 frames old - this is not allowed and likely a leak
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Willow_tree1.prefab
+  artifactKey: Guid(76ca9846e495a3a42a47f16f51d18fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Willow_tree1.prefab using Guid(76ca9846e495a3a42a47f16f51d18fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '667627900064ba9312877c00a1fee0b0') in 0.0357283 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_part1.prefab
+  artifactKey: Guid(9b3d693a654a56c43b2249ca7efee293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_part1.prefab using Guid(9b3d693a654a56c43b2249ca7efee293) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd53f69c4f8ac0e5c29953407138e8b9') in 0.0165418 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Windmill.prefab
+  artifactKey: Guid(28b03608ec7315044906c829c8f86f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Windmill.prefab using Guid(28b03608ec7315044906c829c8f86f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab122f8cb16baa1c8d1bf25a3292e01e') in 0.0253103 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 107
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenHouse_1.prefab
+  artifactKey: Guid(0af388c5f7d3fe8418aecd4b47e51d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/WoodenHouse_1.prefab using Guid(0af388c5f7d3fe8418aecd4b47e51d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a72ae38311c83319a0fde0ac88b3a741') in 0.0228941 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_part2.prefab
+  artifactKey: Guid(a397f10d7b785064e9d0f7b5ab603003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Wall_part2.prefab using Guid(a397f10d7b785064e9d0f7b5ab603003) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82f1d5eb19192e8fde622b45c416ee53') in 0.0182952 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

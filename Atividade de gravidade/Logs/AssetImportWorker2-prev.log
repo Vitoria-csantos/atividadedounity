@@ -1,0 +1,1487 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.11f1 (6a1e21c61430) revision 6954529'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalEducation' Language: 'pt' Physical Memory: 15740 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+57099
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [6884] Host "[IP] 192.168.1.198 [Port] 0 [Flags] 2 [Guid] 2195044117 [EditorId] 2195044117 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-16) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [6884] Host "[IP] 192.168.1.198 [Port] 0 [Flags] 2 [Guid] 2195044117 [EditorId] 2195044117 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-16) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.11f1 (6a1e21c61430)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2JD/Desktop/Projetos Unity/Atividade de gravidade/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   ATI
+    VRAM:     7870 MB
+    Driver:   31.0.12018.19001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002024 seconds.
+- Loaded All Assemblies, in  0.353 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.311 seconds
+Domain Reload Profiling: 663ms
+	BeginReloadAssembly (112ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (147ms)
+		LoadAssemblies (110ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (145ms)
+			TypeCache.Refresh (144ms)
+				TypeCache.ScanAssembly (132ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (312ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (259ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (183ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.706 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.523 seconds
+Domain Reload Profiling: 1227ms
+	BeginReloadAssembly (301ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (321ms)
+		LoadAssemblies (255ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (156ms)
+			TypeCache.Refresh (133ms)
+				TypeCache.ScanAssembly (121ms)
+			BuildScriptInfoCaches (18ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (523ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (348ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (32ms)
+			ProcessInitializeOnLoadAttributes (287ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3146 unused Assets / (0.9 MB). Loaded Objects now: 3725.
+Memory consumption went from 125.6 MB to 124.7 MB.
+Total: 5.546700 ms (FindLiveObjects: 0.517800 ms CreateObjectMapping: 0.212700 ms MarkObjects: 3.963200 ms  DeleteObjects: 0.851000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 98696.386664 seconds.
+  path: Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Sunny1 Skybox.mat
+  artifactKey: Guid(a2126534b3a11b34e977105bd9e3cc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Grass And Flowers Pack 1/Example Scene/Skyboxes/Sunny1 Skybox.mat using Guid(a2126534b3a11b34e977105bd9e3cc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7fdec23bd0188dcfc5898f7cfd7b7c82') in 0.1452675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 294.661109 seconds.
+  path: Assets/Darth_Artisan/Free_Trees/Prefabs/Fir_Tree.prefab
+  artifactKey: Guid(19682540d8a014522a319b1cf788aee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Darth_Artisan/Free_Trees/Prefabs/Fir_Tree.prefab using Guid(19682540d8a014522a319b1cf788aee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3db191b3b40a48c71fb53bb39b78777') in 0.0517002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Darth_Artisan/Free_Trees/Prefabs/Palm_Tree.prefab
+  artifactKey: Guid(c6b7fb383a3534b039692b5485b6e739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Darth_Artisan/Free_Trees/Prefabs/Palm_Tree.prefab using Guid(c6b7fb383a3534b039692b5485b6e739) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7caf63e3d646bd224eb63e6a855b6a14') in 0.0129041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.667914 seconds.
+  path: Assets/Old Water Well/Prefab/old_water_well.prefab
+  artifactKey: Guid(6f36196fa45b4bf458acb1e445499ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Water Well/Prefab/old_water_well.prefab using Guid(6f36196fa45b4bf458acb1e445499ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6184535b84c94117e688805b847fdbdb') in 0.2373961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.879188 seconds.
+  path: Assets/Old Water Well/Scenes/Demoscene_files/demo_ground.FBX
+  artifactKey: Guid(13f81f94715c6f542ad47ac8c1121f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Water Well/Scenes/Demoscene_files/demo_ground.FBX using Guid(13f81f94715c6f542ad47ac8c1121f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab351aac9ad6feeb6adbbd3d0995d703') in 0.0429601 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.742410 seconds.
+  path: Assets/Darth_Artisan/Free_Trees/Meshes/Materials/Free_Tree.mat
+  artifactKey: Guid(af65c0942482e46aeb256506726ff0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Darth_Artisan/Free_Trees/Meshes/Materials/Free_Tree.mat using Guid(af65c0942482e46aeb256506726ff0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff65122f7db1630954cb76738bee4a69') in 0.0161779 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Old Water Well/Material/Old_water_well.mat
+  artifactKey: Guid(ea453fa7624ecd2428d16d09428971b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Water Well/Material/Old_water_well.mat using Guid(ea453fa7624ecd2428d16d09428971b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'abf0d3b0c46db897618c2141039dbbcc') in 0.0256427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Grass And Flowers Pack 1/Ground Textures/New Material.mat
+  artifactKey: Guid(57d57bedcb9ab1b44ad3d24af3c7923c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Grass And Flowers Pack 1/Ground Textures/New Material.mat using Guid(57d57bedcb9ab1b44ad3d24af3c7923c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '066cc4f81f891b314f5f453898fd3b34') in 0.0147476 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.567 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.665 seconds
+Domain Reload Profiling: 1232ms
+	BeginReloadAssembly (190ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (303ms)
+		LoadAssemblies (278ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (125ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (113ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (666ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (432ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (359ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3144 unused Assets / (0.7 MB). Loaded Objects now: 3771.
+Memory consumption went from 126.7 MB to 126.0 MB.
+Total: 9.770000 ms (FindLiveObjects: 0.634200 ms CreateObjectMapping: 0.262400 ms MarkObjects: 7.431300 ms  DeleteObjects: 1.439300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.546 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.646 seconds
+Domain Reload Profiling: 1192ms
+	BeginReloadAssembly (168ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (305ms)
+		LoadAssemblies (268ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (125ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (113ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (647ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (415ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (340ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3144 unused Assets / (0.7 MB). Loaded Objects now: 3771.
+Memory consumption went from 128.6 MB to 127.9 MB.
+Total: 7.208900 ms (FindLiveObjects: 0.482300 ms CreateObjectMapping: 0.291000 ms MarkObjects: 4.898300 ms  DeleteObjects: 1.535100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.559 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.659 seconds
+Domain Reload Profiling: 1217ms
+	BeginReloadAssembly (176ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (309ms)
+		LoadAssemblies (276ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (127ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (116ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (659ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (406ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (326ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3144 unused Assets / (0.7 MB). Loaded Objects now: 3771.
+Memory consumption went from 130.6 MB to 129.9 MB.
+Total: 8.242400 ms (FindLiveObjects: 0.738500 ms CreateObjectMapping: 0.361000 ms MarkObjects: 5.721100 ms  DeleteObjects: 1.419200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.555 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.655 seconds
+Domain Reload Profiling: 1211ms
+	BeginReloadAssembly (168ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (316ms)
+		LoadAssemblies (276ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (128ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (115ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (656ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (412ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (34ms)
+			ProcessInitializeOnLoadAttributes (337ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3144 unused Assets / (1.0 MB). Loaded Objects now: 3771.
+Memory consumption went from 132.5 MB to 131.5 MB.
+Total: 9.614200 ms (FindLiveObjects: 0.892000 ms CreateObjectMapping: 0.405500 ms MarkObjects: 6.058800 ms  DeleteObjects: 2.253500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1713.370351 seconds.
+  path: Assets/New Physic Material.physicMaterial
+  artifactKey: Guid(623bf42c046c60146be5e3e08320741b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Physic Material.physicMaterial using Guid(623bf42c046c60146be5e3e08320741b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c822841e0f00d5a95a9e871f6827dc4') in 0.0171977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.646 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.801 seconds
+Domain Reload Profiling: 1445ms
+	BeginReloadAssembly (197ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (366ms)
+		LoadAssemblies (354ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (129ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (117ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (802ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (506ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (411ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3144 unused Assets / (0.7 MB). Loaded Objects now: 3771.
+Memory consumption went from 134.5 MB to 133.8 MB.
+Total: 9.036600 ms (FindLiveObjects: 1.131800 ms CreateObjectMapping: 0.434300 ms MarkObjects: 5.978700 ms  DeleteObjects: 1.488600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.566 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.777 seconds
+Domain Reload Profiling: 1342ms
+	BeginReloadAssembly (173ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (316ms)
+		LoadAssemblies (285ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (125ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (114ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (777ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (495ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (403ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3144 unused Assets / (0.7 MB). Loaded Objects now: 3771.
+Memory consumption went from 136.4 MB to 135.7 MB.
+Total: 8.950400 ms (FindLiveObjects: 0.891600 ms CreateObjectMapping: 0.765600 ms MarkObjects: 6.107400 ms  DeleteObjects: 1.184100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.554 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.706 seconds
+Domain Reload Profiling: 1259ms
+	BeginReloadAssembly (168ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (311ms)
+		LoadAssemblies (268ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (134ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (122ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (707ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (472ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (396ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3144 unused Assets / (0.9 MB). Loaded Objects now: 3771.
+Memory consumption went from 138.3 MB to 137.4 MB.
+Total: 10.788100 ms (FindLiveObjects: 1.156000 ms CreateObjectMapping: 0.754300 ms MarkObjects: 7.044000 ms  DeleteObjects: 1.831300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.559 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.679 seconds
+Domain Reload Profiling: 1238ms
+	BeginReloadAssembly (182ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (303ms)
+		LoadAssemblies (279ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (125ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (113ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (680ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (447ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (371ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3144 unused Assets / (0.8 MB). Loaded Objects now: 3771.
+Memory consumption went from 140.3 MB to 139.4 MB.
+Total: 8.589600 ms (FindLiveObjects: 0.612100 ms CreateObjectMapping: 0.520200 ms MarkObjects: 6.040800 ms  DeleteObjects: 1.413300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 494.458438 seconds.
+  path: Assets/New Material 1.mat
+  artifactKey: Guid(ec1306e7ffd32164a8b9a90fe5330a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 1.mat using Guid(ec1306e7ffd32164a8b9a90fe5330a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bfd6f5bf088a622d9d9a6ff107bdc622') in 0.1178596 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.107309 seconds.
+  path: Assets/Darth_Artisan
+  artifactKey: Guid(1dda5fe30fd2a42bba9d51692a095c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Darth_Artisan using Guid(1dda5fe30fd2a42bba9d51692a095c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'deea8c2e1b40d58211357f7dd223431f') in 0.0004794 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090065 seconds.
+  path: Assets/Old Water Well
+  artifactKey: Guid(8aa791c868c05954bab196b19831d8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Water Well using Guid(8aa791c868c05954bab196b19831d8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c3ee4403106bfae7e7fb4503582bc72') in 0.0005419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 301.269924 seconds.
+  path: Assets/pedra.jpg
+  artifactKey: Guid(7b7d9d289d38f1d45bd4dd982ff41cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pedra.jpg using Guid(7b7d9d289d38f1d45bd4dd982ff41cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd7db54ead57c2672ad4fca0c13a40c0b') in 0.0238435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1084.503489 seconds.
+  path: Assets/Old Water Well/Prefab/old_water_well.prefab
+  artifactKey: Guid(6f36196fa45b4bf458acb1e445499ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Water Well/Prefab/old_water_well.prefab using Guid(6f36196fa45b4bf458acb1e445499ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ac02c0845c801835dc7e469d4e7ac7a') in 0.0657968 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TreePackVol.1/Prefabs/Palm/Tree 4.prefab
+  artifactKey: Guid(f6a8b7fd5ce039e4cb2ab857589d9c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TreePackVol.1/Prefabs/Palm/Tree 4.prefab using Guid(f6a8b7fd5ce039e4cb2ab857589d9c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1bc1fcb1e831951da9dc7f88e96961cd') in 0.0771498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TreePackVol.1/Prefabs/Palm/Tree 6.prefab
+  artifactKey: Guid(080d737673c927f47b10ae0158059c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TreePackVol.1/Prefabs/Palm/Tree 6.prefab using Guid(080d737673c927f47b10ae0158059c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64915aecc17678f7170536bfd100aa01') in 0.039461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/TreePackVol.1/Prefabs/Palm/Tree 8.prefab
+  artifactKey: Guid(01370640bc58008469c0f7177add2591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TreePackVol.1/Prefabs/Palm/Tree 8.prefab using Guid(01370640bc58008469c0f7177add2591) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca485887b05bb11ee9243b4cd893df20') in 0.0440704 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TreePackVol.1/Prefabs/Palm/Tree 2.prefab
+  artifactKey: Guid(b34e9eecca92f274193b82210f9ddb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TreePackVol.1/Prefabs/Palm/Tree 2.prefab using Guid(b34e9eecca92f274193b82210f9ddb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '853644d9dd2e95efa684a1ba6abc1346') in 0.0428047 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/TreePackVol.1/Prefabs/Palm/Tree 7.prefab
+  artifactKey: Guid(95097733ba384d948835e1e118cc4049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TreePackVol.1/Prefabs/Palm/Tree 7.prefab using Guid(95097733ba384d948835e1e118cc4049) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f7d5bf1b23b3e7dee1260372434e161') in 0.040548 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.931266 seconds.
+  path: Assets/Lowpoly Flowers/flower02.fbx
+  artifactKey: Guid(41ba2a6f1d128f94eba95e5213a81254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Flowers/flower02.fbx using Guid(41ba2a6f1d128f94eba95e5213a81254) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7cff3bf0a40f2bb5ec5741488d1625b') in 0.0639326 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Lowpoly Flowers/flower06.fbx
+  artifactKey: Guid(ab34fd65b601dab41915f4e874408d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Flowers/flower06.fbx using Guid(ab34fd65b601dab41915f4e874408d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e98e0c7af05d0ff735075b698b63dd1d') in 0.2195064 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 260
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.733351 seconds.
+  path: Assets/New Physic Material.physicMaterial
+  artifactKey: Guid(623bf42c046c60146be5e3e08320741b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Physic Material.physicMaterial using Guid(623bf42c046c60146be5e3e08320741b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f9f9231888b03b16af17604d6af1da4') in 0.0011969 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2JD\Desktop\Projetos Unity\Atividade de gravidade\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.661 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.629 seconds
+Domain Reload Profiling: 1290ms
+	BeginReloadAssembly (205ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (363ms)
+		LoadAssemblies (324ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (155ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (140ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (630ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (380ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (309ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3145 unused Assets / (0.7 MB). Loaded Objects now: 3774.
+Memory consumption went from 142.5 MB to 141.8 MB.
+Total: 5.914900 ms (FindLiveObjects: 0.471000 ms CreateObjectMapping: 0.236100 ms MarkObjects: 4.317000 ms  DeleteObjects: 0.888900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 239.705834 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Birch_tree2.prefab
+  artifactKey: Guid(5219ccfa3b129f645bfb105ac244e8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Birch_tree2.prefab using Guid(5219ccfa3b129f645bfb105ac244e8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e1cc29b5245704805131ecd1aaaafcea') in 0.2396223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_spoon.prefab
+  artifactKey: Guid(e3d6d39d39579f347a50ef63dae12627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_spoon.prefab using Guid(e3d6d39d39579f347a50ef63dae12627) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a04546cb20c13c7f586772c3b8a3ddbb') in 0.2507258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Deciduous_tree1.prefab
+  artifactKey: Guid(dc20bf501e8161b40859eb66568d49f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Deciduous_tree1.prefab using Guid(dc20bf501e8161b40859eb66568d49f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '37c7b97bfb8dc8523e3577dbb0b5c9ef') in 0.0199736 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle5.prefab
+  artifactKey: Guid(1bbaa2b4e9f38f247a679a48e7119852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle5.prefab using Guid(1bbaa2b4e9f38f247a679a48e7119852) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '227d99b14ffdb952a0158e2651953f0c') in 0.0200145 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_cup1.prefab
+  artifactKey: Guid(10a31ba8783d590419d60e1a150a90d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_cup1.prefab using Guid(10a31ba8783d590419d60e1a150a90d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '014b4dc0e6282f042bf7c217f9bff4c7') in 0.0234221 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Flower7.prefab
+  artifactKey: Guid(7f72c76c87dff5149967072a8aabddef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Flower7.prefab using Guid(7f72c76c87dff5149967072a8aabddef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14367d519cec96b62bffa6e9c98773d5') in 0.2308141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_elixir1.prefab
+  artifactKey: Guid(182522b21312ecd49b2a940eb7588df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_elixir1.prefab using Guid(182522b21312ecd49b2a940eb7588df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc000d3c24306ff87bcc481e70692433') in 0.0181366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bowler1.prefab
+  artifactKey: Guid(670d3848d1d5d804b89f6cb7e02d3856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bowler1.prefab using Guid(670d3848d1d5d804b89f6cb7e02d3856) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '616a171615445961200a6809b64503a7') in 0.0171916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Flower6.prefab
+  artifactKey: Guid(0b6bd30c5d303194db3c59feae69ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Flower6.prefab using Guid(0b6bd30c5d303194db3c59feae69ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c323e449ff71ad8494f0215ba777a5d') in 0.0200811 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_knife.prefab
+  artifactKey: Guid(9ae953e135d2a854cb0876021c321548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_knife.prefab using Guid(9ae953e135d2a854cb0876021c321548) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6dabe52c906d00a51f7c4935beea0a0') in 0.0172083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_table_round.prefab
+  artifactKey: Guid(c52f5c6f08ce3b54e9d7300b6225a312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_table_round.prefab using Guid(c52f5c6f08ce3b54e9d7300b6225a312) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb53f7abab80ad955546922dab3fbc3b') in 0.0184013 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Grass3.prefab
+  artifactKey: Guid(ea784f90c6a294d4c943e54ce9184fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Grass3.prefab using Guid(ea784f90c6a294d4c943e54ce9184fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff3cee19ba238ca65bd80013af70912a') in 0.0185095 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_apple.prefab
+  artifactKey: Guid(5457bf12f504dff458b81b32e398fc77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_apple.prefab using Guid(5457bf12f504dff458b81b32e398fc77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f00385e0a5a1fa85e5ead87ed921313a') in 0.0194811 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle3.prefab
+  artifactKey: Guid(16e3c3a966aa840439bfe8f3d4b9b2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle3.prefab using Guid(16e3c3a966aa840439bfe8f3d4b9b2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '55642abfee516ecccda4cd41572c284d') in 0.0188651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/cart1.prefab
+  artifactKey: Guid(02c9d373237917847b636baad496fa95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/cart1.prefab using Guid(02c9d373237917847b636baad496fa95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fbcac825ae769c9ed10a3bc03c4e1f92') in 0.0186509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_chicken.prefab
+  artifactKey: Guid(12c2885c9d0abc6419d8f0e715bf925a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_chicken.prefab using Guid(12c2885c9d0abc6419d8f0e715bf925a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11c8c67a839be7eabf66e2a1af8a9d5d') in 0.0186738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_book2.prefab
+  artifactKey: Guid(bd5d815d5dbfcbb47b8b9b2d2e647d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_book2.prefab using Guid(bd5d815d5dbfcbb47b8b9b2d2e647d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11568f9d38f9d0fcabbc78added4ae3a') in 0.020176 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle2.prefab
+  artifactKey: Guid(b75b3cb7eaba7754b829ddd2b23b2f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle2.prefab using Guid(b75b3cb7eaba7754b829ddd2b23b2f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd35b2cf3449ce0e02f6486aab381c836') in 0.0195051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_tablecloth_small.prefab
+  artifactKey: Guid(ea4f3b07c0efeb24ca3ef28e4e64fcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_tablecloth_small.prefab using Guid(ea4f3b07c0efeb24ca3ef28e4e64fcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb644d14fc1cd3c8f2f7e9a5eaa1720e') in 0.0187094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_chair4.prefab
+  artifactKey: Guid(d83e98c017dc464479061248f3af7328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_chair4.prefab using Guid(d83e98c017dc464479061248f3af7328) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'decbe41bf67580f415e2c1d586e015d8') in 0.0177901 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Flower5.prefab
+  artifactKey: Guid(cd03a41894dab5e49abe8481b9a4a630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Flower5.prefab using Guid(cd03a41894dab5e49abe8481b9a4a630) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69e85ac918cdd32a307656d354bffed7') in 0.021918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/cart2.prefab
+  artifactKey: Guid(5f535edf9e8d3854795a1f09fcb06c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/cart2.prefab using Guid(5f535edf9e8d3854795a1f09fcb06c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2689d528ecc9ee0ce6198f9c815038a3') in 0.0195944 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Flower9.prefab
+  artifactKey: Guid(296cd3b7478d68a4eaa772d9fd3ab3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Flower9.prefab using Guid(296cd3b7478d68a4eaa772d9fd3ab3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '338a24dd69028c383b08257fd52dbf39') in 0.0203983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle1.prefab
+  artifactKey: Guid(12f375000a68b4649bb3d3d8189e199e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle1.prefab using Guid(12f375000a68b4649bb3d3d8189e199e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '857210ec6286718e40141c75dca6da01') in 0.0188969 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_table_small.prefab
+  artifactKey: Guid(db9721d709b86e641a1b80d909210f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_table_small.prefab using Guid(db9721d709b86e641a1b80d909210f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a26f8644aa0616660775a34989971751') in 0.0228543 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_tablecloth.prefab
+  artifactKey: Guid(dc5d119be17e64146add7deca74e5ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_tablecloth.prefab using Guid(dc5d119be17e64146add7deca74e5ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5343f6e8a36271311981d54b4ae6c35f') in 0.0194632 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle4.prefab
+  artifactKey: Guid(72b88d1023c0ad847af2e3eeec4b7d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle4.prefab using Guid(72b88d1023c0ad847af2e3eeec4b7d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3de7fa0cc8a885515e6c984bbf76c3b4') in 0.0207686 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FantasyEnvironments/FX/FX_CandleFlame.prefab
+  artifactKey: Guid(a5bf753841ac8904c95828458f1242c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/FX/FX_CandleFlame.prefab using Guid(a5bf753841ac8904c95828458f1242c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0930bef4315137366ed5fdd309877d9') in 0.0464377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Flower4.prefab
+  artifactKey: Guid(6f67d1c79c9b196459c5de7ea6ce6077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Flower4.prefab using Guid(6f67d1c79c9b196459c5de7ea6ce6077) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddb51b91790f8550ec63115097ff4ccd') in 0.0220662 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Grass1.prefab
+  artifactKey: Guid(91d8d8ad5c541394c80f7cc7e1fd253b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Grass1.prefab using Guid(91d8d8ad5c541394c80f7cc7e1fd253b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65b9230c04dd0eb6071b44b9ad06ad96') in 0.0234809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Flower8.prefab
+  artifactKey: Guid(ea732816104f9474d83cbe0dbb7c4258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Flower8.prefab using Guid(ea732816104f9474d83cbe0dbb7c4258) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1652e307900312e4d7aca6ded0314508') in 0.0229413 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_cup3.prefab
+  artifactKey: Guid(72ee67964857e29498b6717984dd43cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_cup3.prefab using Guid(72ee67964857e29498b6717984dd43cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64c593c19f3852a2c2cdd193f8efdd39') in 0.020327 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Flower2.prefab
+  artifactKey: Guid(91367e40ea3f3ad4a90bbf1e7a32d9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Flower2.prefab using Guid(91367e40ea3f3ad4a90bbf1e7a32d9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e25f40978bc69523dc5faad9a46cbde') in 0.0205647 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Flower3.prefab
+  artifactKey: Guid(ad737f18422ef564aa21b23aab39d274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Flower3.prefab using Guid(ad737f18422ef564aa21b23aab39d274) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a6154d85748b3d6d1c0a01309f4494e') in 0.0214002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_chair1.prefab
+  artifactKey: Guid(e3a77e5f5c5dbe248a84e83cf53aa7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_chair1.prefab using Guid(e3a77e5f5c5dbe248a84e83cf53aa7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3978f3bf60f628b6772fa5f19f28b3a') in 0.017397 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Deciduous_tree4.prefab
+  artifactKey: Guid(31503e1a3ea2c3049b62e31c4c6c9397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Deciduous_tree4.prefab using Guid(31503e1a3ea2c3049b62e31c4c6c9397) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '19566941f26afd5bd90947b1de6087d8') in 0.0247831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/cart3.prefab
+  artifactKey: Guid(70b6d0c9364cc7a498b08b095cf258ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/cart3.prefab using Guid(70b6d0c9364cc7a498b08b095cf258ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8417b68d79c3aa0d340fc2cf91a6e669') in 0.0199885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bread_1.prefab
+  artifactKey: Guid(99bf85d404a04ee459c668786c801529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bread_1.prefab using Guid(99bf85d404a04ee459c668786c801529) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '956ed9eb97516070ce82278aa1ba6f8d') in 0.0191353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle6.prefab
+  artifactKey: Guid(b6bdc8350ca1cf24f9b7e651e790e08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle6.prefab using Guid(b6bdc8350ca1cf24f9b7e651e790e08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ac6dd931df4f1319b72e2601b421b6f') in 0.018528 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_book1.prefab
+  artifactKey: Guid(2de94728c9689364d8cb8f0d515319c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_book1.prefab using Guid(2de94728c9689364d8cb8f0d515319c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f31e615ad55986cc23294616b64f2eef') in 0.0202801 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_corn.prefab
+  artifactKey: Guid(10506fa9e2a850e4cbd99310b1057c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_corn.prefab using Guid(10506fa9e2a850e4cbd99310b1057c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cce8b5d52f8d8812254a234c0e99b13d') in 0.0185258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.883008 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Mushroom3.prefab
+  artifactKey: Guid(1ceaf06647257394f8d75a1759c6be00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Mushroom3.prefab using Guid(1ceaf06647257394f8d75a1759c6be00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ba1df78dff4cf1ae289d2fec036f24d') in 0.0201455 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Plant1.prefab
+  artifactKey: Guid(b33ce8376149eb040be6057eed2bd12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Plant1.prefab using Guid(b33ce8376149eb040be6057eed2bd12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31e62d0c271161f44b2f305efa8eafcf') in 0.0202615 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Mushroom5.prefab
+  artifactKey: Guid(8f71c65da202a1548a8734589db5f6fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Mushroom5.prefab using Guid(8f71c65da202a1548a8734589db5f6fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b1429411f9c1cc8dc6a2654558c9ad5') in 0.0199748 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Oak_tree2.prefab
+  artifactKey: Guid(97c810fbbe2577a45863f4be151b599b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Oak_tree2.prefab using Guid(97c810fbbe2577a45863f4be151b599b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64e1d1bd8dbb18ae39be6755b4d1e0f4') in 0.0203942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Pine_tree1.prefab
+  artifactKey: Guid(b68302d21e7061f4fb52903649a610f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Pine_tree1.prefab using Guid(b68302d21e7061f4fb52903649a610f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aeb0b3677a60b64f03a61c9337ef30e7') in 0.0204786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Oak_tree3.prefab
+  artifactKey: Guid(deb3021f729059242af2e33c46ab5dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Oak_tree3.prefab using Guid(deb3021f729059242af2e33c46ab5dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d9adfbdff9a47447747fbd0f82725f0') in 0.0189787 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Pine_stump.prefab
+  artifactKey: Guid(ed5f82224b99b30438c4330a2dca3429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Pine_stump.prefab using Guid(ed5f82224b99b30438c4330a2dca3429) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fff2b04ba599717634787053929bd2ba') in 0.0185996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Plant2.prefab
+  artifactKey: Guid(eb2e3b1d2f96f724e97c8d931ec0d6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Plant2.prefab using Guid(eb2e3b1d2f96f724e97c8d931ec0d6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a44498fbad70dc7181388ad2bd7bd8dc') in 0.0176534 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Plant3.prefab
+  artifactKey: Guid(d795a570d77409c4e8f64d728f66a677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Plant3.prefab using Guid(d795a570d77409c4e8f64d728f66a677) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a8867957c9f8d8038d924ffd973a40e') in 0.0218218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Pine_tree3.prefab
+  artifactKey: Guid(4d9135c56f306e14baa814f13d1a1193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Pine_tree3.prefab using Guid(4d9135c56f306e14baa814f13d1a1193) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba6368f0be336434069571a6bde595c4') in 0.0206077 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Pine_tree2.prefab
+  artifactKey: Guid(f86a19e11c6b9734ba52832ec45ee16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Pine_tree2.prefab using Guid(f86a19e11c6b9734ba52832ec45ee16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e81730ba7157f847e98a5196fd95806') in 0.0191069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Oak_tree1.prefab
+  artifactKey: Guid(9da14cd80e3d72b4c8501e9acc6740f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Oak_tree1.prefab using Guid(9da14cd80e3d72b4c8501e9acc6740f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8be2948fc27cb36dd28b99b6c79742e6') in 0.0173394 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.121735 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Plant4.prefab
+  artifactKey: Guid(5bc68b98108d78a418afb40cc75e2a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Plant4.prefab using Guid(5bc68b98108d78a418afb40cc75e2a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '20e744ee175c0e4c8b75ec03c9dc4459') in 0.0172622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag_seeds.prefab
+  artifactKey: Guid(e1ad20f44ad21f6448a11f707d185806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag_seeds.prefab using Guid(e1ad20f44ad21f6448a11f707d185806) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '20cf0934ea6fc5924235b6285da4276e') in 0.0177477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Rock3.prefab
+  artifactKey: Guid(94a3318e328358d4095f16b054b14180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Rock3.prefab using Guid(94a3318e328358d4095f16b054b14180) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f0a0ea15b294a2ce920b49af97e6cf0') in 0.0160012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag_carrot.prefab
+  artifactKey: Guid(03bca772ee40d4a48ab8fabe3d662126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag_carrot.prefab using Guid(03bca772ee40d4a48ab8fabe3d662126) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29baa6755e80061581996a7c40216ca4') in 0.0151329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag_beet.prefab
+  artifactKey: Guid(01701cff1618c074ca4c37d49d60566f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag_beet.prefab using Guid(01701cff1618c074ca4c37d49d60566f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b23ae6d21953c77f3b6fb4ff5b5786a') in 0.0167845 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag_potato.prefab
+  artifactKey: Guid(0583e822e5012574482d44a792a86ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag_potato.prefab using Guid(0583e822e5012574482d44a792a86ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f16c55bd21824c81b63d9484702106d1') in 0.0191559 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Rock2.prefab
+  artifactKey: Guid(86263e8355f96ba4ab9fdf4e96c2090f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Rock2.prefab using Guid(86263e8355f96ba4ab9fdf4e96c2090f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef2fbe648462bea37eb4860f66d866a2') in 0.0162033 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/FantasyEnvironments/Environments/Prefabs/Stone1.prefab
+  artifactKey: Guid(8e8f8660f45621a4a804df622b985183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Prefabs/Stone1.prefab using Guid(8e8f8660f45621a4a804df622b985183) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01615c4469568c55ecc3c66345d1ee59') in 0.0159222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_basket.prefab
+  artifactKey: Guid(11606f16466dd6243ad5d3f80932bb0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_basket.prefab using Guid(11606f16466dd6243ad5d3f80932bb0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b1c2a59408aa3b1fab8f75b4abb515a0') in 0.0176747 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel_small.prefab
+  artifactKey: Guid(9839330e3d5bae14a934399cb98a74ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel_small.prefab using Guid(9839330e3d5bae14a934399cb98a74ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f93835565f5125e73bd1e443f75733ca') in 0.0166435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_interior_curtain.prefab
+  artifactKey: Guid(223538b123a3d5a4ca03eeb7ae26c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_interior_curtain.prefab using Guid(223538b123a3d5a4ca03eeb7ae26c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '36055f8da4812817a854f16b02b2f461') in 0.1236925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_interior_lamp.prefab
+  artifactKey: Guid(4751505b5c956c442b19187f1b69b3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_interior_lamp.prefab using Guid(4751505b5c956c442b19187f1b69b3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f96fcc0cb5f22b78ad4de25d13658ba') in 0.0207636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_basket_small.prefab
+  artifactKey: Guid(a3b1ceba998f4d4419d82dc582c290dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_basket_small.prefab using Guid(a3b1ceba998f4d4419d82dc582c290dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd58a7d46e9a85eb9e765555dba190c20') in 0.0188835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_doorR.prefab
+  artifactKey: Guid(63c15379ba98d1349931cc354f5ae6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_doorR.prefab using Guid(63c15379ba98d1349931cc354f5ae6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1271360c7211ab9061052bb575382a6d') in 0.1086757 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag.prefab
+  artifactKey: Guid(8379f308d5dcffd4ab2f3ee5959a1076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_bag.prefab using Guid(8379f308d5dcffd4ab2f3ee5959a1076) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50fa72cbb3f2fe23f38ca7e07a07b1fc') in 0.0200444 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_door_room.prefab
+  artifactKey: Guid(741095614d39ca449888df212e441190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Town/Prefabs/Tavern_door_room.prefab using Guid(741095614d39ca449888df212e441190) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed5762993624504f8d779b275ae48466') in 0.0213691 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
