@@ -1,7 +1,7 @@
 # Atividade, Unity
 Esta pasta terá explicações de criação de uma cena no Unity.
 
-Nomes: 2º Jogos Digitais - 2024
+Nomes: 2º Jogos Digitais - 2024: 
 Vitória Colussi dos Santos
 Maria Eduarda da Silva Souza
 
