@@ -2,8 +2,7 @@
 Esta pasta terá explicações de criação de uma cena no Unity.
 
 Nomes: 2º Jogos Digitais - 2024: 
-Vitória Colussi dos Santos
-Maria Eduarda da Silva Souza
+Vitória Colussi dos Santos e Maria Eduarda da Silva Souza
 
 <h1>Descrição da cena</h1>
 <p>A cena é consideravelmente pequena mas com vários elementos presentes, no centro há um poço antigo cercado por um jardim com diversas árvores (uma delas sendo uma macieira), plantas (como grama, flores, cogumelos) e pedras sem esquecer claro do caminho de pedras que da entrada ao local.</p>
